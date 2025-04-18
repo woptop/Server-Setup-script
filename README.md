@@ -1,3 +1,3 @@
 # Server-Setup-script
 Run this to secure a new server  
-<pre> ```sudo bash setup.sh ``` </pre>
+<pre> ```sudo bash setup.sh``` </pre>
